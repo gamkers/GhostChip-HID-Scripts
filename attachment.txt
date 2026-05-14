@@ -1,0 +1,51 @@
+===== ENVIRONMENT VARIABLES =====
+
+Name                            Value                                                      
+----                            -----                                                      
+ALLUSERSPROFILE                 C:\ProgramData                                             
+APPDATA                         C:\Users\User\AppData\Roaming                              
+CommonProgramFiles              C:\Program Files\Common Files                              
+CommonProgramFiles(Arm)         C:\Program Files (Arm)\Common Files                        
+CommonProgramFiles(x86)         C:\Program Files (x86)\Common Files                        
+CommonProgramW6432              C:\Program Files\Common Files                              
+COMPUTERNAME                    DESKTOP-ORNJI5L                                            
+ComSpec                         C:\Windows\system32\cmd.exe                                
+DriverData                      C:\Windows\System32\Drivers\DriverData                     
+EFC_5056                        1                                                          
+FPS_BROWSER_APP_PROFILE_STRING  Internet Explorer                                          
+FPS_BROWSER_USER_PROFILE_STRING Default                                                    
+HOMEDRIVE                       C:                                                         
+HOMEPATH                        \Users\User                                                
+LOCALAPPDATA                    C:\Users\User\AppData\Local                                
+LOGONSERVER                     \\DESKTOP-ORNJI5L                                          
+NUMBER_OF_PROCESSORS            2                                                          
+OneDrive                        C:\Users\User\OneDrive                                     
+OS                              Windows_NT                                                 
+Path                            C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;...
+PATHEXT                         .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL 
+PROCESSOR_ARCHITECTURE          ARM64                                                      
+PROCESSOR_IDENTIFIER            ARMv8 (64-bit) Family 8 Model 0 Revision   0, Apple        
+PROCESSOR_LEVEL                 0                                                          
+PROCESSOR_REVISION              0000                                                       
+ProgramData                     C:\ProgramData                                             
+ProgramFiles                    C:\Program Files                                           
+ProgramFiles(Arm)               C:\Program Files (Arm)                                     
+ProgramFiles(x86)               C:\Program Files (x86)                                     
+ProgramW6432                    C:\Program Files                                           
+PSExecutionPolicyPreference     Bypass                                                     
+PSModulePath                    C:\Users\User\Documents\WindowsPowerShell\Modules;C:\Pro...
+PUBLIC                          C:\Users\Public                                            
+SESSIONNAME                     Console                                                    
+SystemDrive                     C:                                                         
+SystemRoot                      C:\Windows                                                 
+TEMP                            C:\Users\User\AppData\Local\Temp                           
+TMP                             C:\Users\User\AppData\Local\Temp                           
+USERDOMAIN                      DESKTOP-ORNJI5L                                            
+USERDOMAIN_ROAMINGPROFILE       DESKTOP-ORNJI5L                                            
+USERNAME                        User                                                       
+USERPROFILE                     C:\Users\User                                              
+windir                          C:\Windows                                                 
+
+
+
+
